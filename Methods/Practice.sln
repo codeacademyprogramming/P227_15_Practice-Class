@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2", "Practice2\Practice2.csproj", "{6862F6AE-3EE8-4D0C-9E6A-8E467845CC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLesson", "ClassLesson\ClassLesson.csproj", "{3F1D997B-ABB5-4339-9717-97BBDAD39D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{A2C04B82-5651-49B6-A9C3-5084D3E06DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6862F6AE-3EE8-4D0C-9E6A-8E467845CC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6862F6AE-3EE8-4D0C-9E6A-8E467845CC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6862F6AE-3EE8-4D0C-9E6A-8E467845CC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6862F6AE-3EE8-4D0C-9E6A-8E467845CC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1D997B-ABB5-4339-9717-97BBDAD39D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1D997B-ABB5-4339-9717-97BBDAD39D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1D997B-ABB5-4339-9717-97BBDAD39D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1D997B-ABB5-4339-9717-97BBDAD39D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C04B82-5651-49B6-A9C3-5084D3E06DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C04B82-5651-49B6-A9C3-5084D3E06DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C04B82-5651-49B6-A9C3-5084D3E06DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C04B82-5651-49B6-A9C3-5084D3E06DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C79C1CF-7E4D-4757-AF7A-8A07974C8E30}
+	EndGlobalSection
+EndGlobal

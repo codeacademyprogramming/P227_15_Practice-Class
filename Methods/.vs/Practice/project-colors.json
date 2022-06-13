@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6862f6ae-3ee8-4d0c-9e6a-8e467845cc92": {
+      "ProjectGuid": "6862f6ae-3ee8-4d0c-9e6a-8e467845cc92",
+      "DisplayName": "Practice2",
+      "ColorIndex": 0
+    },
+    "3f1d997b-abb5-4339-9717-97bbdad39d36": {
+      "ProjectGuid": "3f1d997b-abb5-4339-9717-97bbdad39d36",
+      "DisplayName": "ClassLesson",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a2c04b82-5651-49b6-a9c3-5084d3e06dca": {
+      "ProjectGuid": "a2c04b82-5651-49b6-a9c3-5084d3e06dca",
+      "DisplayName": "Task",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
